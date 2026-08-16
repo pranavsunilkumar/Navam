@@ -1,3 +1,8 @@
+Financial Advisor & Expense Manager AI Agent Development Project – Dual Track Version
+
+team name - Navam 
+college - DSATM
+
 -> week 1 - [done] 
 1. firstly decided on which project we should be working on, as we have worked on other project else then finance and healthcare we decided to work on finance for this project,
 2. we had started the research part for the project,
