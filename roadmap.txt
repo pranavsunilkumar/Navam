@@ -1,1 +1,15 @@
-helo
+-> week 1 - [done] 
+1. firstly decided on which project we should be working on, as we have worked on other project else then finance and healthcare we decided to work on finance for this project,
+2. we had started the research part for the project,
+3. while understanding its a very wide space where we have to be precise on what we are building, we should know the principles of banking and the legal and regularities aspects of finance.
+4. we are taking inspiration from the existing apps like pocket guard, ynab, expensify, cleo.
+
+-> 2 week checkpoints 
+
+[ ] 1. we would continue our research and get the api required for it.
+[ ] 2. we would try to build a strong pipeline for all the payment and management tool.
+[ ] 3. a basic frontend for this.
+[ ] 4. we will create a flow for the website.
+[ ] 5. OCR processing
+
+
